@@ -6,6 +6,8 @@ In this assignment, you will implement the basic structure and visual style of a
 
 [Figma Design Link](https://www.figma.com/design/31CrRTw480Y91OWyxWqqj8/Challenge-1---Batch-4?node-id=8411-143671&p=f&t=z4rvc4xN6W15E9pz-0)
 
+Breakpoint screen size: mobile < 768px, tablet 768–1024px, desktop > 1024px.
+
 The goal of this assignment is to test your understanding of basic HTML structure, the use of CSS selectors, the box model, and your ability to translate visual designs into code.
 
 ## Folder Structure
